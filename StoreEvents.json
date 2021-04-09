@@ -8,7 +8,7 @@
 	{
 		"abr": "tornados",
 		"price": 15000,
-		"karmatype": "Bad"
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "clearweather",
@@ -217,12 +217,12 @@
 	},
 	{
 		"abr": "shippartpoison",
-		"price": 5000,
+		"price": 7500,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "shippartpsychic",
-		"price": 5000,
+		"price": 7500,
 		"karmatype": "Bad"
 	},
 	{
@@ -243,7 +243,7 @@
 	{
 		"abr": "sapperraid",
 		"price": 3000,
-		"karmatype": "Bad"
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "siegeraid",
@@ -253,12 +253,12 @@
 	{
 		"abr": "mechanoidraid",
 		"price": 5000,
-		"karmatype": "Bad"
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "infestation",
 		"price": 3500,
-		"karmatype": "Bad"
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "manhunterpack",
@@ -362,7 +362,7 @@
 	},
 	{
 		"abr": "surgery",
-		"price": 500,
+		"price": 1,
 		"karmatype": "Neutral"
 	},
 	{
